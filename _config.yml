@@ -8,8 +8,8 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "sunrise"
 
 # Site Settings
-locale                   : "pt-BR"
-title                    : "Lugares Legais em São Paulo"
+locale                   : "en" 
+title                    : "Lugares Legais em Sao Paulo"  
 title_separator          : "-"
 name                     : "M. Abreu"
 description              : "Este site contém uma lista de lugares legais em São Paulo."
