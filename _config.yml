@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "sunrise"
 
 # Site Settings
-locale                   : "pt-BR"
+locale                   : "en"
 title                    : "Lugares Legais em São Paulo"
 title_separator          : "-"
 name                     : "M. Abreu"
