@@ -1,31 +1,30 @@
 ---
-title: "My Page"
+title: "Nice Places"
 permalink: /
 layout: splash 
 header: 
    overlay_color: "#000"
-   overlay_image: /assets/images/front1.png  
+   overlay_image: /assets/images/gates.png  
    overlay_filter: "0.7"
-   image-description: "This is the best image a got" 
-   caption: "Eu no museu ... n"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop"
-
+   image-description: "gates" 
+   caption: "my photo"
+excerpt: "There is full of nice places, but none is like by your side."
 intro: 
-   - excerpt: "intro intro intro intro intro"
+   - excerpt: "A lot of nice places to be."
 
 feature_row:
-   - image_path: /assets/images/flor.png
-     alt: "flor"
-     title: "flor"
-     excerpt: "este é uma flor"
-   - image_path: /assets/images/flor.png
-     alt: "code"
-     title: "code SP"
-     excerpt: "code SP é legal"
-   - image_path: /assets/images/front1.png
-     alt: "front"
-     title: "front"
-     excerpt: "front front"
+   - image_path: /assets/images/nightstreet.png
+     alt: "night street"
+     title: "Moments"
+     excerpt: "There are moments where is nice to be."
+   - image_path: /assets/images/bubbles.png
+     alt: "bubbles"
+     title: "Actions"
+     excerpt: "There are actions that make places specials ones."
+   - image_path: /assets/images/liberty.png
+     alt: "liberty"
+     title: "Things"
+     excerpt: "There are funnny things at every special place."
 ---
 
 {% include feature_row id="intro" type="center" %}
