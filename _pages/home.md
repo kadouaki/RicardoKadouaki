@@ -1,5 +1,6 @@
 ---
 title: "My Page"
+permalink: /
 layout: splash 
 header: 
    overlay_color: "#000"
