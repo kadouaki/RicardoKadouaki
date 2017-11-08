@@ -4,7 +4,7 @@ permalink: /
 layout: splash 
 header: 
    overlay_color: "#000"
-   overlay_image: /assets/images/gates.png  
+   overlay_image: /assets/images/nightstreet.png  
    overlay_filter: "0.7"
    image-description: "gates" 
    caption: "my photo"
