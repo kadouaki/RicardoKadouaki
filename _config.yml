@@ -9,14 +9,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en" 
-title                    : "Lugares Legais em Sao Paulo"  
+title                    : "Nice Places"  
 title_separator          : "-"
-name                     : "M. Abreu"
-description              : "Este site contém uma lista de lugares legais em São Paulo."
+name                     : "Marcos Abreu"
+description              : "Some places will be forever in our hearts."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/opcao1.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/liberty.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -61,11 +61,7 @@ naver-site-verification  :
 
 # Social Sharing
 twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : "abreums"
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -84,34 +80,15 @@ analytics:
 # Site Author
 author:
   name             : "Marcos Abreu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : /assets/images/me.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "It's always a good time to do it."
   location         : "São Paulo"
   email            :
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
-  soundcloud       :
+  github           : "abreums"
+  linkedin         : "marcos-abreu-82216b" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  twitter          : "abreums"
 
 
 # Reading Files
@@ -151,7 +128,7 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 header:  
-   image:   /assets/images/opcao1.png
+   image:   /assets/images/nightstreet.png
 
 # Conversion
 markdown: kramdown
@@ -183,7 +160,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/Sao_Paulo" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
