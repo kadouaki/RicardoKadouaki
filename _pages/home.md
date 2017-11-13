@@ -13,7 +13,7 @@ intro:
    - excerpt: "A lot of nice places to be."
 
 feature_row:
-   - image_path: /assets/images/nightstreet-wm.png
+   - image_path: /assets/images/redwall-wm.png
      alt: "night street"
      title: "Moments"
      excerpt: "There are moments where is nice to be."
