@@ -1,5 +1,5 @@
 ---
-title: "Nice Places"
+title: "Nice Places :)"
 permalink: /
 layout: splash 
 header: 
