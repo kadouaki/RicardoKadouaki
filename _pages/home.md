@@ -15,15 +15,15 @@ intro:
 feature_row:
    - image_path: /assets/images/redwall-wm.png
      alt: "night street"
-     title: "Moments"
+     title: "Currículo"
      excerpt: "There are moments where is nice to be."
    - image_path: /assets/images/bubbles-wm.png
      alt: "bubbles"
-     title: "Actions"
+     title: "Interesses"
      excerpt: "There are actions that make places specials ones."
    - image_path: /assets/images/liberty-wm.png
      alt: "liberty"
-     title: "Things"
+     title: "Random Stuff"
      excerpt: "There are funnny things at every special place."
 ---
 
