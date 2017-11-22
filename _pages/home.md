@@ -15,16 +15,16 @@ intro:
 feature_row:
    - image_path: /assets/images/redwall-wm.png
      alt: "night street"
-     title: "Currículo"
+     title: "Portfolio"
      excerpt: "Coisas legais que eu já fiz"
    - image_path: /assets/images/bubbles-wm.png
      alt: "bubbles"
      title: "Interesses"
-     excerpt: "Coisas que eu curto"
+     excerpt: "Grupos que eu participo, temas de meu interesse"
    - image_path: /assets/images/liberty-wm.png
      alt: "liberty"
      title: "Random Stuff"
-     excerpt: "Outras coisas"
+     excerpt: "Outras coisas aleatórias"
 ---
 
 {% include feature_row id="intro" type="center" %}
