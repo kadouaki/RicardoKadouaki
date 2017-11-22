@@ -1,5 +1,5 @@
 ---
-title: "Nice Places :)"
+title: "Ricardo Kadouaki"
 permalink: /
 layout: splash 
 header: 
@@ -8,7 +8,7 @@ header:
    overlay_filter: "0.7"
    image-description: "gates" 
    caption: "my photo"
-excerpt: "There is full of nice places, but none is like by your side."
+excerpt: "Rascunho de site pessoal"
 intro: 
    - excerpt: "A lot of nice places to be."
 
