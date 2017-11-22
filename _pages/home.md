@@ -16,15 +16,15 @@ feature_row:
    - image_path: /assets/images/redwall-wm.png
      alt: "night street"
      title: "Currículo"
-     excerpt: "There are moments where is nice to be."
+     excerpt: "Coisas legais que eu já fiz"
    - image_path: /assets/images/bubbles-wm.png
      alt: "bubbles"
      title: "Interesses"
-     excerpt: "There are actions that make places specials ones."
+     excerpt: "Coisas que eu curto"
    - image_path: /assets/images/liberty-wm.png
      alt: "liberty"
      title: "Random Stuff"
-     excerpt: "There are funnny things at every special place."
+     excerpt: "Outras coisas"
 ---
 
 {% include feature_row id="intro" type="center" %}
